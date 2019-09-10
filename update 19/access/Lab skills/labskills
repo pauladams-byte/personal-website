@@ -1,0 +1,363 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script src="../../Java/popup.js"></script>
+<link rel="stylesheet" type="text/css" href="../../CSS/style2.css">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-1536106766063806",
+          enable_page_level_ads: true
+     });
+</script>
+<title>Lab skills</title>
+</head>
+<body>
+<div class="topnav" id="myTopnav">
+	    <a href="../../index.html" target="_top">Home</a>
+		<a href="../access.html" target="_top">Access</a>
+      	<a href="../../biomed/bsc.html" target="_top">Biomedical Science</a>
+      	<a href="../../misc/comingsoon.html" target="_top">Computing</a>
+      	<a href="../../misc/comingsoon.html" target="_top">Masters</a>
+      	<a href="../../misc/comingsoon.html" target="_top">PHD</a>
+      	<a2>Paul Adams</a2>
+<a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
+
+</div>
+<ul class="breadcrumb">
+  <li><a href="../../index.html">Home</a></li>
+  <li><a href="../access.html">Access Home</a></li>
+  <li>Lab Skills</li>
+</ul>
+<div class="row">
+
+<div class="card">
+  <img src="../../images/profile.jpg" alt="Profile" class="profilepic">
+  <h1>Paul Adams</h1>
+  <p class="title">Creator & designer</p>
+  <p>Bournemouth and Poole College</p>
+  <p>In the short term, I plan on completing my the access course and gaining a place to university. In the long term I hope to gain a masters, and PhD in Phamacological sciences. My experience with technology and creating this website provides the skills I need to "get a foot in the door". With technology moving so quickly, scientists in any field, need to have the ability to quickly shift and learn new techniques of investigation. With this in mind, I hope to go further in exploring Pharmacoinformatics being the study of pharmacology and computational systems of the future.</p>
+  <p>I have experience in working in Bars and restaurants which helped develop my "people" skills. Along with my position held as an SME for a large technological company supporting mobile devices, have also given me skills to get me ready for the challenges of university. This has also given me the opportunity to develop this website and Google Chrome Extensions.</p></div>
+
+<div class="column right">
+
+<div class="sitehead">
+  <h1>Lab skills</h1></div>
+<div class="sitecourse">
+  <p>We studied several topics in Lab skills and did a different experiment each week. There was one assignment, but we had many options to write about.</p>
+<p>These included:<br>
+Energy,<br>
+Energy in Food and<br>
+Exo and endothermic reactions</p>
+<br>
+</div>
+
+<br>
+<div class="tab">
+  <button class="tablinks" onclick="openCity(event, 'Energy')">Energy</button>
+  <button class="tablinks" onclick="openCity(event, 'Energy in Food')">Energy in Food</button>
+  <button class="tablinks" onclick="openCity(event, 'Thermal reactions')">Thermal reactions</button>
+</div>
+
+<div id="Energy" class="tabcontent">
+ <div class="sitedata">
+ <h1>Energy</h1>
+
+
+<p style= "border:50px white; font-size:20px;">Lab skills 25/01/2018 - What is energy?</p>
+<p>Work is the energy transfer that takes place when a force causes an object to move.<br><br>
+Work done = force applied x distance moved in direction of force<br>W=Fs</p>
+<p>Where: Work done is measured in Joules (J)<br>Force is measued in Newtons (N) (Newtons measured in tens)<br>Distance is measured in Metres (M)
+</p>
+<p>Energy is the measure of the ability of an object or a system to perform work. There are many types of energy:<br>
+Kinetic Energy - energy of an object due to its speed<br>Gravitational potential energy - energy of an object due to position in a gravitational field</p>
+<P>Energy Transfer<br>When work is done, energy is Transferred. That energy might be:<br>Gravitational potential energy = e.g. when an object changes hieght within a gravitational field.<br>Kinetic energy - e.g. when an object changes speed.<br>light energy - e.g. when a light bulb is switched on.<br>Heat and sound - e.g. when a car brakes sharply.</P>
+<p>The law of conservation energy states that: <br>Energy cannot be created, or destroyed; it can only be changed into another form.</p>
+<p>In other words, the total energy of a system is constant.<br><br>A bungee jumper's gravitational potential energy is change into kinetic energy as they jump, and then stored as elastic energy.</p>
+<p>Gravitational potential energy (GPE,Ep or Egrav) is the energy of an object due to its position in a gravitational field.<br>The Ep gained by a mass is proportional to the force used to lift it, and the distance it is lifted:<br><br>Gravitational potential energy = mass x gravitational field strength x height<br>Ep = mgh</p>
+<p>Power is the rate at which work is done, or the rate at which energy is transferred. <br>power (W)= work done(J)/ time taken (s)</p>
+
+<p style= "border:50px white; font-size:20px;">Risk assessment</p>
+
+<table>
+   <tr>
+	<th>Risk</th>
+	<th>Prevention</th>
+   </tr>
+   <tr>
+   	<td>Stairs</td>
+   	<td>
+   		
+   	</td>
+   </tr>
+</table>
+
+<p style= "border:50px white; font-size:20px;">Results</p>
+<table>
+	<tr>
+		<th>Run - trial</th>
+		<th>weight</th>
+		<th>Walk</th>
+		<th>Jog</th>
+		<th>Run</th>
+		<th>Skip</th>
+	</tr>
+	<tr>
+		<td>Jason</td>
+		<td>82kg</td>
+		<td>3.70</td>
+		<td>1.90</td>
+		<td>1.58</td>
+		<td>1.08</td>
+	</tr>
+	<tr>
+		<td>Josh</td>
+		<td>107kg</td>
+		<td>4.04</td>
+		<td>2.30</td>
+		<td>1.91</td>
+		<td>1.42</td>
+	</tr>
+	<tr>
+		<td>Paul</td>
+		<td>112</td>
+		<td>3.45</td>
+		<td>2.54</td>
+		<td>2.24</td>
+		<td>1.48</td>
+	</tr>
+	<tr>
+		<td>Morgan</td>
+		<td>72</td>
+		<td>4.21</td>
+		<td>2.10</td>
+		<td>2.09</td>
+		<td>2.09</td>
+	</tr>
+	<tr>
+		<td>Aden</td>
+		<td>85</td>
+		<td>4.21</td>
+		<td>2.17</td>
+		<td>1.85</td>
+		<td>1.54</td>
+	</tr>
+</table>
+
+ 
+  <img src="../../images/college.png" alt="College logo" style="max-width:75%;height:auto;padding:10px">
+  </div>
+  </div>
+  
+<div id="Energy in Food" class="tabcontent">
+<div class="sitedata">
+<h1>Energy in food</h1>
+
+
+<p style= "border:50px white; font-size:20px;">
+The food chain
+</p>
+<p>From the sun, to plants, to cow, to human<br>
+	But only about 20% of energy goes through each stage.<br><br>
+	So 20% of energy from the sun, goes to the producer, which is the plant, then 20% from that goes to the cow, the consumer. And finally 20% of that energy goes to the Human, or predator.<br><br>
+	Burning food creates energy.
+</p>
+
+<p style= "border:50px white; font-size:20px;">Risk assessment</p>
+
+<table>
+   <tr>
+	<th>Risk</th>
+	<th>Prevention</th>
+   </tr>
+   <tr>
+   	<td>Bunsen burner - flame</td>
+   	<td>When not in use directly, turn to safety flame.</td>
+   </tr>
+   <tr>
+   	<td>Water - spillages</td>
+   	<td>Although a small amount, when pouring the water, pour carefully.</td>
+   </tr>
+   <tr>
+   	<td>Water/ can - scalding</td>
+   	<td>Handle with care</td>
+   	<tr>
+   	 <td>Glass breakages</td>
+   	 <td>Handle glass cylinder with care, clean up with dustpan and brush if needed.</td>
+   	</tr>
+   	<tr>
+   	 <td>Food in the lab - eating</td>
+   	 <td>Basic lab safety says to not eat, especially while doing an experiment</td>
+   	</tr>
+</table>
+
+
+
+<p style= "border:50px white; font-size:20px;">Results</p>
+<table>
+	<tr>
+		<th>Food</th>
+		<th>Weight</th>
+		<th>Temp (before)</th>
+		<th>Temp (after)</th>
+		<th>Change in temp</th>
+		<th>Energy released</th>
+	</tr>
+	<tr>
+		<td>Pasta</td>
+		<td>1.17g</td>
+		<td>25</td>
+		<td>32</td>
+		<td>7</td>
+		<td>628.205</td>
+	</tr>
+	<tr>
+		<td>Popcorn</td>
+		<td>0.14g</td>
+		<td>24</td>
+		<td>27</td>
+		<td>3</td>
+		<td>2250</td>
+	</tr>
+	<tr>
+		<td>Seed</td>
+		<td>0.07g</td>
+		<td>25</td>
+		<td>26</td>
+		<td>1</td>
+		<td>1500</td>
+	</tr>
+	<tr>
+		<td>Crisp</td>
+		<td>0.32g</td>
+		<td>25</td>
+		<td>31</td>
+		<td>6</td>
+		<td>1968.05</td>
+	</tr>
+	<tr>
+		<td>Cheese puff</td>
+		<td>0.76g</td>
+		<td>25</td>
+		<td>37</td>
+		<td>12</td>
+		<td>1657.89</td>
+	</tr>
+	<tr>
+		<td>2 Raisins</td>
+		<td>1g</td>
+		<td>25</td>
+		<td>27</td>
+		<td>2</td>
+		<td>210</td>
+	</tr>
+</table>
+
+<img src="../../images/college.png" alt="College logo" style="max-width:75%;height:auto;padding:10px">
+ </div>
+ </div>
+  
+<div id="Thermal reactions" class="tabcontent">
+
+<div class="sitedata">
+<h1>Thermal heat capacity</h1>
+
+
+<p style= "border:50px white; font-size:20px;">Lab skills 01/02/2018 - Thermal heat capacity</p>
+<p>Which is hotter?<br>Bath water or a lit match? - The lit match<br>Which needed more energy to heat it? - The bath water as there is a larger amount/area<br>
+	Heat as water and temperature as wetness analogy<br>'heat' is not an entity but a short hand for a process.
+</p>
+<p>State vs phase
+<br>Solids liquids and gases are three of the different phases of matter (superfluids and plasmas are two others.</p>
+
+<p>Specific heat cpacity<br>Definition:-<br>
+The specific heat capacity (c) of a substance is the amount of energy needed to raise the temperature of 1kg of the substance 1K (or 1 degree celsius).</p>
+</div>
+<br>
+<div class="sitedata">
+<h1>Specific heat capacity</h1>
+
+<p>Specific heat capacity is the amount of energy needed to raise the temperature of one kilogram of a substance by 1C.<br><br>
+
+Energy absorbed = mass x Specific heat capacity x Temp rise ----> E=mc(Delta)T<br><br>
+
+Heating of blocks made of different metals.
+
+Energy put IN to metal = voltage x current x time
+Energy = mass x specific heat capacity x temp rise
+
+Voltage x current x time = mass x specific heat capacity x temp rise
+
+Specific heat capacity = (voltage x current x time)/
+</p>
+<p style= "border:50px white; font-size:20px;">Risk assessment</p>
+
+<table>
+   <tr>
+	<th>Risk</th>
+	<th>Prevention</th>
+   </tr>
+   <tr>
+   	<td>Electricity - electrocution</td>
+   	<td>Don't mess with the power packs</td>
+   </tr>
+   <tr>
+   	<td>Hot metal - scalding</td>
+   	<td>Don't touch the metal when hot</td>
+   </tr>
+</table>
+</div>
+<br>
+<div class="sitedata">
+<h1>Exothermic & Endothermic reactions</h1>
+
+
+<p style= "border:50px white; font-size:20px;">
+Exothermic - reaction in which heat is given out<br>
+Endothermic - reaction in which heat is taken in</p>
+
+<p>An exothermic reaction is one which releases heat energy to the surroundings<br>
+The temperature of the surroundings increases.<br>
+The energy released from forming new bonds is greater than the energy needed to break old bonds.<br><br>
+
+The bonds are broken, this requires energy. Bonds being made, releases energy.<br>
+Activation energy is the energy needed to break the old bonds.<br><br>
+
+An endothermic reaction is one which takes in heat energy from the surroundings<br>
+The temperature or the surroundinds decreases<br>
+The energy needed to break old bonds is greater than the energy released from forming new bonds<br><br>
+
+Bond breaking is always exothermic<br>
+Bond making is always endothermic
+ </p>
+ <img src="../../images/college.png" alt="College logo" style="max-width:75%;height:auto;padding:10px">
+  
+</div>
+ </div>
+ </div>
+
+<div class="column left">
+<h3>Access pages</h3>
+<a href="../Biology/biology.html">Biology</a><br>
+<a href="../chemistry/chemistry.html">Chemistry</a><br>
+<a href="../psychology/psychology.html">Psychology</a><br>
+<a href="../Lab skills/labskills.html">Lab skills</a><br>
+<a href="../../misc/assignment2.html">Other information</a><br>
+<a href="../../misc/game.html">"Road to Pharmacology" game</a><br>
+<a href="plants_people/bioassignment.html">Plants and People Assignment Part A</a>
+<h3>Other links</h3>
+<a href="https://www.google.co.uk" target="new_tab">Google Home</a><br>
+<a href="../../misc/sitemap.html">Site map</a>
+</div>
+
+<div class="footer">
+ <a>Designed by Paul Adams</a>
+  <div class="footer-right">
+   <a>Last updated 18th June 2018</a>
+  </div>
+</div>
+
+</div>
+</body>
+</html>
