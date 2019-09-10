@@ -1,0 +1,301 @@
+body { font-family: "Lato", sans-serif;
+      color:white;
+      background: linear-gradient(#99cc00 0%, darkgreen 100%);
+      text-align:center;
+}
+
+.container {
+  position: relative;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container2 {
+  position: relative;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.content {
+  position: absolute;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5); /* Black background with transparency */
+  color: #f1f1f1;
+  width: 100%;
+  font-size:25px;
+}
+
+
+
+.text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+/*pharma site*/
+
+ul.breadcrumb {
+    list-style: none;
+    font-size:10px;
+    background-color: #333;
+}
+ul.breadcrumb li {
+    display: inline;
+    font-size: 18px;
+}
+ul.breadcrumb li+li:before {
+    padding: 8px;
+    color: black;
+    content: "/\00a0";
+}
+ul.breadcrumb li a {
+    color: white;
+    text-decoration: none;
+}
+ul.breadcrumb li a:hover {
+    color: orange;
+    text-decoration: underline;
+}
+
+
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 2px solid white;
+}
+
+.padding {
+          padding: 15px;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.topnav .icon {
+  display: none;
+}
+
+.dropdown {
+    float: left;
+    overflow: hidden;
+}
+
+.dropdown .dropbtn {
+    font-size: 17px;
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.topnav a:hover, .dropdown:hover .dropbtn {
+  background-color: #555;
+  color: white;
+}
+
+.dropdown-content a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+@media screen and (max-width: 600px) {
+  .topnav a:not(:first-child), .dropdown .dropbtn {
+    display: none;
+  }
+  .topnav a.icon {
+    float: right;
+    display: block;
+  }
+}
+
+
+
+@media screen and (max-width: 600px) {
+  .topnav.responsive {position: relative;}
+  .topnav.responsive .icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+  .topnav.responsive .dropdown {float: none;}
+  .topnav.responsive .dropdown-content {position: relative;}
+  .topnav.responsive .dropdown .dropbtn {
+    display: block;
+    width: 100%;
+    text-align: left;
+  }
+}
+
+.middle {
+    float: left;
+    margin:5px;
+    padding:10px;
+    background-color:#333;
+}
+
+.top {
+  float: left;
+  margin:5px;
+  padding:10px;
+  background-color:#333;
+}
+
+.bottom {
+  float: left;
+  margin:5px;
+  padding:10px;
+  background-color:#333;
+}
+
+.centre {
+  width: 90%;
+  padding:5px;
+  margin-left: 5vw;
+  margin-right: auto;
+}
+
+.left {
+  width: 10%;
+  padding:5px;
+}
+
+.centre2 {
+  width: 31%;
+}
+.right {
+  width: 31%;
+}
+
+.right2 {
+  width: 10%;
+  padding:5px;
+}
+.left2 {
+  width: 10%;
+  padding:5px;
+}
+
+.right3 {
+  width: 31%;
+  margin:3px;
+  word-break:break-all;
+}
+
+.collegelogo{
+  width: 29%;
+  margin:1px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+@media screen and (max-width: 600px) {
+    .column {
+        width: 95%;
+        position:relative;
+    }
+    .middle {
+        width: 93%;
+        position:relative;
+        font-size:20px;
+    }
+    .bottom {
+        width: 93%;
+        position:relative;
+        font-size:20px;
+        word-break: break-all;
+    }
+    .top {
+        width: 95%;
+        position:relative;
+        font-size:10px;
+        word-break: break-all;
+        margin:5px;
+    }
+    .collegelogo{
+      width: 95%;
+    }
+}
+
+
+a {
+  text-decoration: none;
+  color:white;
+}
+
+.left a:hover {
+    color: orange;
+    text-decoration: underline;
+}
+
+p {
+  text-align:justify;
+}
+
